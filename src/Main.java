@@ -1,5 +1,8 @@
 import java.util.Scanner;
 //Karen Audrey Hoya Salinas
+//Ejercicio Alcancia
+//20-08-20224
+
 class Alcancia {
     private int moneda20;
     private int moneda50;
