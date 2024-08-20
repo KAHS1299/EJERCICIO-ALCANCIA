@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Karen Audrey Hoya Salinas
 class Alcancia {
     private int moneda20;
     private int moneda50;
